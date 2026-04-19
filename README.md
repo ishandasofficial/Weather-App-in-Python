@@ -1,12 +1,7 @@
 # 🌦️ Weather App (Python)
 
 > A sleek and simple weather application built with Python to fetch real-time weather data and present it in a clean, user-friendly way.
-
----
-
-## 📸 Preview
-
-
+> 
 ---
 
 ## ✨ Features
